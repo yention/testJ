@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4dba00e-8298-4a68-a143-97c593cd4045" name="Default Changelist" comment="first co">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1beNUE0DmfhBxW6PMqUkWfx21ry" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ProjectName" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstClass.testName00001" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectName" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstClass" />
+      <option name="METHOD_NAME" value="testName00001" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="TestNG.FirstClass.testName00001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4dba00e-8298-4a68-a143-97c593cd4045" name="Default Changelist" comment="" />
+      <created>1588988612232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588988612232</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1589388133050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589388133050</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first co">
+      <created>1589388248795</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589388248795</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="first co" />
+    <option name="LAST_COMMIT_MESSAGE" value="first co" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="627" y="218" key="#Inspections" timestamp="1588989292431">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state x="627" y="218" key="#Inspections/82.0.1838.1080@82.0.1838.1080" timestamp="1588989292431" />
+    <state x="481" y="114" key="#Project_Structure" timestamp="1588991478967">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state x="481" y="114" key="#Project_Structure/82.0.1838.1080@82.0.1838.1080" timestamp="1588991478967" />
+    <state x="455" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588991474714">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state x="455" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/82.0.1838.1080@82.0.1838.1080" timestamp="1588991474714" />
+    <state x="1278" y="268" key="#com.intellij.ide.util.MemberChooser" timestamp="1589128726851">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state x="1278" y="268" key="#com.intellij.ide.util.MemberChooser/82.0.1838.1080@82.0.1838.1080" timestamp="1589128726851" />
+    <state x="1203" y="299" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589138157924">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state x="1203" y="299" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/82.0.1838.1080@82.0.1838.1080" timestamp="1589138157924" />
+    <state x="1136" y="259" key="FileChooserDialogImpl" timestamp="1589387147301">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state x="1136" y="259" key="FileChooserDialogImpl/82.0.1838.1080@82.0.1838.1080" timestamp="1589387147301" />
+    <state width="886" height="299" key="GridCell.Tab.0.bottom" timestamp="1589160680508">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state width="886" height="299" key="GridCell.Tab.0.bottom/82.0.1838.1080@82.0.1838.1080" timestamp="1589160680508" />
+    <state width="886" height="299" key="GridCell.Tab.0.center" timestamp="1589160680507">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state width="886" height="299" key="GridCell.Tab.0.center/82.0.1838.1080@82.0.1838.1080" timestamp="1589160680507" />
+    <state width="886" height="299" key="GridCell.Tab.0.left" timestamp="1589160680507">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state width="886" height="299" key="GridCell.Tab.0.left/82.0.1838.1080@82.0.1838.1080" timestamp="1589160680507" />
+    <state width="886" height="299" key="GridCell.Tab.0.right" timestamp="1589160680508">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state width="886" height="299" key="GridCell.Tab.0.right/82.0.1838.1080@82.0.1838.1080" timestamp="1589160680508" />
+    <state x="502" y="185" key="SettingsEditor" timestamp="1588989541831">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state x="502" y="185" key="SettingsEditor/82.0.1838.1080@82.0.1838.1080" timestamp="1588989541831" />
+    <state x="1059" y="285" key="Vcs.Push.Dialog.v2" timestamp="1589388271574">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state x="1059" y="285" key="Vcs.Push.Dialog.v2/82.0.1838.1080@82.0.1838.1080" timestamp="1589388271574" />
+    <state x="1276" y="466" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589388431289">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state x="1276" y="466" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/82.0.1838.1080@82.0.1838.1080" timestamp="1589388431289" />
+    <state x="1218" y="327" width="603" height="350" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589388092373">
+      <screen x="82" y="0" width="1838" height="1080" />
+    </state>
+    <state x="1218" y="327" width="603" height="350" key="git4idea.remote.GitConfigureRemotesDialog/82.0.1838.1080@82.0.1838.1080" timestamp="1589388092373" />
+  </component>
+</project>
